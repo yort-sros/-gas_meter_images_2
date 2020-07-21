@@ -1,1 +1,1 @@
-# -gas_meter_images_2
+# gas_meter_images_2
